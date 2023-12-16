@@ -1,0 +1,16 @@
+2023-12-16 09:14:03,640 - main - INFO - --- Start up App ---
+2023-12-16 09:18:12,699 - controllers.home - INFO - Welcome Kalugin Danila!
+2023-12-16 09:18:19,060 - controllers.home - INFO - welcome page test!
+2023-12-16 09:20:25,011 - main - INFO - --- Shutdown App ---
+2023-12-16 09:20:48,394 - main - INFO - --- Start up App ---
+2023-12-16 09:22:15,302 - controllers.home - INFO - Welcome Kalugin Danila!
+2023-12-16 09:22:17,033 - controllers.home - INFO - Welcome Kalugin Danila!
+2023-12-16 09:22:17,300 - controllers.home - INFO - Welcome Kalugin Danila!
+2023-12-16 09:22:28,440 - controllers.home - INFO - Welcome Kalugin Danila!
+2023-12-16 09:22:32,286 - main - INFO - --- Shutdown App ---
+2023-12-16 09:32:22,268 - main - INFO - --- Start up App ---
+2023-12-16 09:32:58,248 - controllers.home - INFO - Welcome Paramonov Nikita!
+2023-12-16 09:38:00,179 - main - INFO - --- Shutdown App ---
+2023-12-16 09:45:32,775 - main - INFO - --- Start up App ---
+2023-12-16 09:45:50,120 - controllers.home - INFO - Welcome Shalaev Artyom!
+2023-12-16 09:47:42,768 - main - INFO - --- Shutdown App ---
